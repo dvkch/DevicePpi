@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DevicePpi'
-  s.version          = '1.2.24'
+  s.version          = '1.2.25'
   s.summary          = 'Gets the PPI resolution of the display'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,10 @@ Pod::Spec.new do |s|
 Gets the PPI resolution of the display, using a built-in list of known devices.
                        DESC
 
-  s.homepage         = 'https://github.com/Clafou/DevicePpi'
+  s.homepage         = 'https://codeberg.org/Clafou/DevicePpi'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Seb Molines' => 'clafou@gmail.com' }
-  s.source           = { :git => 'https://github.com/Clafou/DevicePpi.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/Clafou'
+  s.source           = { :git => 'https://codeberg.org/Clafou/DevicePpi.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '11.0'
 

@@ -1,3 +1,8 @@
+### :warning: Moved to a new location!
+To get future updates please update your package URL from github.com to codeberg.org:
+~~`https://github.com/Clafou/DevicePpi.git`~~
+`https://codeberg.org/Clafou/DevicePpi.git`
+
 # DevicePpi
 
 This library provides run-time detection of the PPI (pixels per inch) resolution of the main display of an iOS device.

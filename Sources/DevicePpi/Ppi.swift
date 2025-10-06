@@ -4,6 +4,8 @@
 //  Created by Sébastien Molines on 28/09/2018.
 //
 
+#warning("I have moved! To get future updates please update your package URL to https://codeberg.org/Clafou/DevicePpi.git")
+
 import UIKit
 
 public enum Ppi {
